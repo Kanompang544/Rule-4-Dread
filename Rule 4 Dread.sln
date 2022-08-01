@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rule 4 Dread", "Rule 4 Dread\Rule 4 Dread.csproj", "{92AE1CB0-0943-4349-AA13-30A2EC7CFA06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92AE1CB0-0943-4349-AA13-30A2EC7CFA06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92AE1CB0-0943-4349-AA13-30A2EC7CFA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92AE1CB0-0943-4349-AA13-30A2EC7CFA06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92AE1CB0-0943-4349-AA13-30A2EC7CFA06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCE5BA1F-3C92-453D-8C3D-16034E7BECA4}
+	EndGlobalSection
+EndGlobal
